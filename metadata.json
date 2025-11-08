@@ -1,0 +1,7 @@
+{
+  "name": "BIna AI",
+  "description": "A sleek, modern chat application with a glassmorphism UI, featuring a comprehensive sidebar for settings, profile, and chat history management. Powered by the Gemini API for intelligent conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
